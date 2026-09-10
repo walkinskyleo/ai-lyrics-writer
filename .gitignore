@@ -1,0 +1,9 @@
+# 个人运行时数据（不纳入版本控制：含本地绝对路径与个人创作记录）
+logs/
+gui_config.json
+gui_error.log
+references/used-songs.json
+
+# Python 缓存
+__pycache__/
+*.pyc
